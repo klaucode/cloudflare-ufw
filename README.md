@@ -3,6 +3,8 @@ Script to allow Cloudflare IPs with ports using ufw.
 (...improved script from Paul Reed https://github.com/Paul-Reed/cloudflare-ufw)
 Script will open only ports supported by Cloudflare (not all ports).
 
+![](https://blog-cloudflare-com-assets.storage.googleapis.com/2019/06/logo-cloudflare-dark-1.svg)
+
 ### Setup
 Assuming that you already have ufw installed (now a pre-installed package in most linux distros), firstly ensure that ufw is not enabled;
 
